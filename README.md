@@ -1,1 +1,2 @@
-# bolier-plate
+# collisionAlgorithm
+Algorithm to detect collision between two objects
